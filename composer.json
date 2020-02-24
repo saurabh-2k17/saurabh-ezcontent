@@ -80,7 +80,7 @@
     "drupal/slick_paragraphs": "1.x",
     "drupal/svg_image": "^1.9",
     "drupal/video_embed_field": "^2.2",
-    "drupal/viewsreference": "~1.9",
+    "drupal/viewsreference": "^1.0",
     "drupal/webform": "^5.4",
     "drupal/yoast_seo": "^1.5",
     "oomphinc/composer-installers-extender": "^1.1",
