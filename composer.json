@@ -32,7 +32,7 @@
     "drupal/color_field": "^2.2",
     "drupal/colorbox": "^1.4",
     "drupal/decoupled_router": "^1.11",
-    "drupal/dropzonejs": "2.0.0-alpha4",
+    "drupal/dropzonejs": "~2.0.0",
     "drupal/email_registration": "^1.0@RC",
     "drupal/entity_browser": "~2.1",
     "drupal/entity_embed": "^1.0",
