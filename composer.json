@@ -72,7 +72,7 @@
     "drupal/slick_media": "2.x",
     "drupal/slick_paragraphs": "1.x",
     "drupal/svg_image": "^1.9",
-    "drupal/webform": "^5.4",
+    "drupal/webform": "^5.1",
     "drupal/yoast_seo": "^1.5",
     "oomphinc/composer-installers-extender": "^1.1",
     "vardot/blazy": "^1.8"
